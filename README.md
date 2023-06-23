@@ -1,5 +1,5 @@
 ### Hi, I'm Rafael!  👋
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelparenza)](https://github.com/fagnerpsantos)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelparenza)](https://github.com/rafaelparenza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafaelparenza/pt?trk=profile-badge)](https://br.linkedin.com/in/rafaelparenza/pt?trk=profile-badge)
 [![Youtube Badge](https://img.shields.io/badge/-udemy-993399?style=flat-square&labelColor=993399&logo=udemy&logoColor=white&link=https://www.udemy.com/user/rafael-luiz-parenza)](https://www.udemy.com/user/rafael-luiz-parenza/)
 
