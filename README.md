@@ -10,7 +10,7 @@ I am a software developer, graduated in systems analysis and development. I’ve
 <ul>
   <li>✔Visual Studio (2015,2019,2022), ✔Visual Studio Code ✔SQL Server ✔Robo 3T (Mongo) </li>
 <li>✔Android Studio ✔Postman ✔ThingSpeak ✔Wordpress </li>
-<li>✔.NET ✔C# ✔HTML ✔JAVASCRIPT ✔TYPESCRIPT ✔CSS ✔JSON   </li>
+<li>✔.NET ✔C# ✔MAUI ✔HTML ✔JAVASCRIPT ✔TYPESCRIPT ✔CSS ✔JSON   </li>
 <li>✔ARDUINO ✔SQL  ✔MONGODB ✔ANGULAR ✔ANGULARJS ✔RAZOR ✔BLAZOR  </li>
 <li>✔ENTITY FRAMEWORK ✔LINQ E LAMBDA ✔BOOTSTRAP ✔REST ✔GOOGLE CHARTS </li>
 <li>✔AZURE ✔DOCKER ✔AZURE DEVOPS ✔PIPELINE CI/CD </li>
